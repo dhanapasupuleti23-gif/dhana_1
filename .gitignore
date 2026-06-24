@@ -1,0 +1,1 @@
+#.venv and temp files\n.venv/\n.tmp*\ntmp_script*\nnode_modules/\n.DS_Store\n
